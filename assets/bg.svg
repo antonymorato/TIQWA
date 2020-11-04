@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" viewBox="0 0 2160 3840">
+<metadata>
+<vectornator:setting key="DimensionsVisible" value="1"/>
+<vectornator:setting key="SnapToGrid" value="0"/>
+<vectornator:setting key="SnapToPoints" value="0"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="CMYKEnabledKey" value="0"/>
+<vectornator:setting key="SnapToEdges" value="0"/>
+<vectornator:setting key="DisplayWhiteBackground" value="0"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="GridSpacing" value="36"/>
+<vectornator:setting key="Units" value="Pixels"/>
+<vectornator:setting key="DynamicGuides" value="1"/>
+<vectornator:setting key="New" value="1"/>
+</metadata>
+<defs/>
+<g id="Слой 3" vectornator:layerName="Слой 3">
+<path stroke="#000000" stroke-width="9.77" d="M2394.11-149.047L2167.79+4118.69L-276.793+3989.05L-50.4696-278.686L2394.11-149.047Z" fill="#ede5dd" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+</g>
+<g id="Слой 2" vectornator:layerName="Слой 2">
+<path d="M-123.852-110.718C-10.4556-104.704+84.9551+128.564+135.256+248.728C195.046+391.559+346.105+385.42+370.141+404.283C490.735+498.923+438.892+392.788+557.653+484.721C830.409+695.864+1078.15+383.12+1331.47+669.912C1478.28+836.116+1633.73+624.147+1653.72+614.479C1889.56+500.398+2144.67-34.679+2255.46-28.8037" opacity="1" fill="#f5740f"/>
+<path d="M-273.592+3835.95C-192.761+2862.09+656.271+3377.15+838.911+3462.81C916.904+3499.39+1287.58+3145.2+1580.33+3138.44C2028.61+3128.08+2308.63+3885.28+2774.6+3909.99" opacity="1" fill="#f5740f"/>
+<path d="M3.39684+552.929C125.632+567.899+126.493+632.681+198.895+723.325C513.033+1116.61+479.395+1469.39+366.53+1960.76C306.285+2223.05-120.772+2465.07-223.454+2722.7" opacity="1" fill="#f5740f"/>
+<path d="M2226.55+776.61C1807.34+1295.3+1522.82+1951.24+1928.71+2556.13C1992.88+2651.77+2084.64+2874.43+2227.82+2882.02" opacity="1" fill="#f5740f"/>
+</g>
+<g id="Слой 4" vectornator:layerName="Слой 4">
+<text x="0" font-family="Chalkduster" y="0" text-anchor="start" vectornator:text="TIQWA" fill="#f5740f" font-size="206" vectornator:width="927.413" opacity="1" transform="matrix(0.99473 0.102531 -0.102531 0.99473 748.214 1046.49)">
+<tspan x="0" y="202" textLength="762.997">
+TIQWA</tspan>
+</text>
+</g>
+</svg>
